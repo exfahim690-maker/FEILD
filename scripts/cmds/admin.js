@@ -47,7 +47,7 @@ module.exports = {
 			case "add":
 			case "-a": {
 				if (!isOwner)
-					return message.reply("❌ | Only my boss farhan can add operator.");
+					return message.reply("❌ | Only my boss 𝐅𝐀𝐇𝐈𝐌 can add operator.");
 
 				let uids = [];
 				if (event.type === "message_reply") {
