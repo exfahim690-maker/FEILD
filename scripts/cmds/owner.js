@@ -79,7 +79,7 @@ try {
   const videoPath = path.join(cacheDir, "owner.mp4");
 
   // ===== VIDEO URL =====
-  const videoUrl = "https://files.catbox.moe/wzosnu.mp4";
+  const videoUrl = "https://files.catbox.moe/9045ak.mp4";
 
   // ===== DOWNLOAD VIDEO =====
   const response = await axios({
